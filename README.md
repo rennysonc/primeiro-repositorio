@@ -1,2 +1,5 @@
-# primeiro repositorio
- Primeiro Reporsitorio do Git e Github
+# primeiro repositório
+ Primeiro Repositório do Git e Github
+
+ Repositório teste!
+
